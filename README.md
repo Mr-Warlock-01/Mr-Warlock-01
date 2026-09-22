@@ -16,25 +16,12 @@
 
 <br>
 
-<table>
-<tr>
-<td width="55%" valign="top">
-
 ### 🧑‍💻 About Me
 
 - 🎓 **Background:** B.Sc. in Computer Science & Engineering student at **American International University Bangladesh (AIUB)**.
 - 🏆 **Competitive Programming:** **ICPC Asia West Continent Finalist (2025–26)** and Codeforces **Expert** with **2,000+ problems solved**.
 - 🧩 **Core Stack:** **C++ & C#** for problem-solving, **Next.js, NestJS & .NET** for building full-stack products.
 - 🔭 **Currently:** Looking for an internship or junior developer role to put these skills to work on a real engineering team.
-
-</td>
-<td width="45%" valign="top">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Mr-Warlock-01&show_icons=true&theme=tokyonight&hide_border=true" width="100%" />
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -96,8 +83,6 @@ T-shirt Winner
 <div align="center">
 
 ### 📊 GitHub Activity
-
-<img src="https://github-profile-trophy.vercel.app/?username=Mr-Warlock-01&theme=tokyonight&no-frame=true&row=1&column=6" width="100%" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-Warlock-01&theme=tokyonight&hide_border=true" width="65%" />
 
